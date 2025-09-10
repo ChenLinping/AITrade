@@ -30,7 +30,7 @@ python examples/getting_started.py
 ## 📚 学习路径推荐
 
 ### 对于Python初学者：
-
+　
 1. **先学基础** (1-2周)
    - 运行 `tutorials/01_python_basics/` 中的所有文件
    - 理解变量、函数、类的概念
@@ -91,6 +91,8 @@ python examples/getting_started.py
 AITrade/
 ├── examples/                  # 🎯 从这里开始！
 │   ├── simple_start.py       # 纯Python实现，无需额外库
+│   ├── basic_data_fetch.py   # 数据获取基础示例
+│   ├── simple_moving_average.py # 移动平均策略详解
 │   └── getting_started.py    # 完整功能示例
 ├── tutorials/                 # 📖 教程文档
 │   └── 01_python_basics/     # Python基础教程
