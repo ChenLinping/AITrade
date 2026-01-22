@@ -1,68 +1,8 @@
-# 数据科学和分析基础库
-numpy>=1.21.0
-pandas>=1.3.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-jupyter>=1.0.0
+# AITrade Project Requirements
 
-# 金融数据获取
-yfinance>=0.2.0
-pandas-datareader>=0.10.0
-alpha-vantage>=2.3.0
-tushare>=1.2.0
-
-# 技术分析
-ta-lib>=0.4.0
-talib>=0.4.0
-TA-Lib>=0.4.0
-
-# 机器学习和AI
-scikit-learn>=1.0.0
-tensorflow>=2.8.0
-torch>=1.12.0
-xgboost>=1.5.0
-lightgbm>=3.3.0
-
-# 深度学习特定
-keras>=2.8.0
-transformers>=4.15.0
-
-# 量化交易专用库
-zipline-reloaded>=2.2.0
-backtrader>=1.9.0
-quantlib>=1.26.0
-pyfolio>=0.9.0
-
-# 数据库和存储
-sqlalchemy>=1.4.0
-pymongo>=4.0.0
-redis>=4.0.0
-
-# 网络请求和API
-requests>=2.27.0
-websocket-client>=1.2.0
-ccxt>=2.0.0  # 加密货币交易所API
-
-# 图表和可视化
-plotly>=5.5.0
-bokeh>=2.4.0
-dash>=2.0.0
-
-# 统计和金融计算
-scipy>=1.7.0
-statsmodels>=0.13.0
-arch>=5.0.0  # 金融时间序列分析
-
-# 工具库
-tqdm>=4.62.0  # 进度条
-joblib>=1.1.0  # 并行计算
-schedule>=1.1.0  # 任务调度
-python-dotenv>=0.19.0  # 环境变量管理
-
-# 测试框架
-pytest>=6.2.0
-pytest-cov>=3.0.0
-
-# 代码质量
-black>=22.0.0
-flake8>=4.0.0
+tkinter
+# 如果需要其他库，请根据具体需求添加
+# numpy
+# pandas
+# matplotlib
+# yfinance
